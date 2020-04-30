@@ -1,5 +1,5 @@
 # SoftUni-Certificates
-SoftUni course certificates
+
 1. Programming Basics with C# - October 2018
 
 2. Technology Fundamentals with C# - January 2019
