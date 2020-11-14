@@ -13,3 +13,5 @@
 6. C# Web Basics - January 2020
 
 7. ASP.NET Core - February 2020
+
+8. JS Advanced - May 2020 - Certificate
