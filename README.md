@@ -15,3 +15,5 @@
 7. ASP.NET Core - February 2020
 
 8. JS Advanced - May 2020 - Certificate
+
+9. JS Applications - June 2020 - Certificate
