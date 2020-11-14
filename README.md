@@ -17,3 +17,5 @@
 8. JS Advanced - May 2020 - Certificate
 
 9. JS Applications - June 2020 - Certificate
+
+10. HTML & CSS - September 2020 - Certificate
