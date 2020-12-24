@@ -19,3 +19,5 @@
 9. JS Applications - June 2020 - Certificate
 
 10. HTML & CSS - September 2020 - Certificate
+
+11. Angular - November 2020 - Certificate
