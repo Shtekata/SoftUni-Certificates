@@ -21,3 +21,11 @@
 10. HTML & CSS - September 2020 - Certificate
 
 11. Angular - November 2020 - Certificate
+
+12. Diploma for C# Web Developer 120121
+
+13. Diploma for C# Web Developer 100221
+
+14. JS Back-End - January 2021 - Certificate
+
+15. Diploma for JS Web Developer 180321
