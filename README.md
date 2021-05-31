@@ -29,3 +29,5 @@
 14. JS Back-End - January 2021 - Certificate
 
 15. Diploma for JS Web Developer 180321
+
+16. Diploma for C# Full-Stack Developer 310521
