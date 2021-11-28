@@ -31,3 +31,9 @@
 15. Diploma for JS Web Developer 180321
 
 16. Diploma for C# Full-Stack Developer 310521
+
+17. Linux System Administration - April 2021 - Certificate
+
+18. Diploma for JS Web Developer 191121
+
+19. Linux System Administration Advanced - September 2021 - Certificate
