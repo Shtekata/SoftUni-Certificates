@@ -37,3 +37,5 @@
 18. Diploma for JS Web Developer 191121
 
 19. Linux System Administration Advanced - September 2021 - Certificate
+
+20. Computer Networking Fundamentals - April 2022 - Certificate
