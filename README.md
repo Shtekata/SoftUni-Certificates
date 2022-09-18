@@ -39,3 +39,5 @@
 19. Linux System Administration Advanced - September 2021 - Certificate
 
 20. Computer Networking Fundamentals - April 2022 - Certificate
+
+21. Computer Networking Advanced - June 2022 - Certificate
