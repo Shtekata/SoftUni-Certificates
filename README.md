@@ -43,3 +43,5 @@
 21. Computer Networking Advanced - June 2022 - Certificate
 
 22. Windows System Administration - March 2023 - Certificate
+
+23. Windows System Administration Advanced - November 2023 - Certificate
